@@ -59,6 +59,6 @@ This project analyzes data from the Google Play Store and Apple App Store to ide
 
 ## Project Files
 
-- [`Mission350Solutions_Reviewed.ipynb`](./Mission350Solutions_Reviewed.ipynb): Final cleaned notebook with analysis
+- [`appstore_googleplay_analysis.ipynb`](./appstore_googleplay_analysis.ipynb): Final cleaned notebook with analysis
 - [`README.md`](./README.md): Project overview and instructions
 
