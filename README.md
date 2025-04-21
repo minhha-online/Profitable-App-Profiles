@@ -36,8 +36,8 @@ At our company, we only build apps that are free to download and install, and ou
 
 This project uses two publicly available datasets from Kaggle, containing app metadata from the Google Play Store and Apple App Store. These datasets were used to explore market trends, identify popular app genres, and estimate potential profitability.
 
-## 1. Google Play Store Dataset: You can download from [this link](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
-## 2. Apple App Store Dataset: You can download from [this link](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps)
+**1. Google Play Store Dataset: You can download from [this link](https://www.kaggle.com/datasets/lava18/google-play-store-apps)**
+**2. Apple App Store Dataset: You can download from [this link](https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps)**
 
 # Opening and Exploring the Data
 
