@@ -39,7 +39,8 @@ Both datasets contain information on app category, ratings, size, number of inst
 ---
 
 ## Full file
-👉 [Click here to view the project](https://minhha-online.github.io/Profitable-App-Profiles/appstore_googleplay_analysis.html)
+
+[Click here to view the project](https://minhha-online.github.io/Profitable-App-Profiles/appstore_googleplay_analysis.html)
 
 ---
 
@@ -52,7 +53,7 @@ Both datasets contain information on app category, ratings, size, number of inst
 
 ---
 
-## 📌 Business Value
+## Business Value
 The insights from this project can guide:
 - App developers: to choose categories with less competition
 - Marketers: to understand pricing strategies
