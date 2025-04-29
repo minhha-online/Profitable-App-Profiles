@@ -1,46 +1,61 @@
-# App Store & Google Play Market Analysis
+# Mobile App Market Analysis: App Store vs Google Play
 
-This project analyzes app profiles from the Apple App Store and Google Play to identify trends, profitability factors, and data-driven recommendations for app developers.
+## Project Summary
+In this project, I analyzed app data from both the Apple App Store and Google Play Store to uncover insights about the mobile app marketplace. The objective was to identify factors influencing app success, compare characteristics across platforms, and provide recommendations for app development strategies.
 
-## 📊 Features
+This analysis can help developers, marketers, and investors understand key trends to make informed business decisions in the mobile application industry.
 
-- Data cleaning & preprocessing
-- Exploratory Data Analysis (EDA)
-- Visual comparisons between platforms
-- Insights into free vs paid app models
+---
 
-## 🗂 Project Structure
+## Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- GitHub Pages (for hosting)
 
-```
-.
-├── appstore_googleplay_analysis.ipynb
-├── appstore_googleplay_analysis.py
-├── data/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+---
 
-## 🛠 How to Run
+## Dataset Information
+- **Apple App Store Data:** `AppleStore.csv`
+- **Google Play Store Data:** `googleplaystore.csv`
+  
+Both datasets contain information on app category, ratings, size, number of installs, price, and more.
 
-1. Clone this repo:
-```bash
-git clone https://github.com/yourusername/appstore-googleplay-analysis.git
-cd appstore-googleplay-analysis
-```
+---
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+## Key Analysis Points
+- Distribution of app categories and their popularity
+- Relationship between app ratings, size, and price
+- Free vs. paid apps: download patterns and trends
+- Differences in app characteristics between the two platforms
 
-3. Run the notebook or script:
-```bash
-jupyter notebook appstore_googleplay_analysis.ipynb
-# or
-python appstore_googleplay_analysis.py
-```
+---
 
-## 📄 License
+## Key Findings
+- Free apps dominate both stores, but paid apps tend to have slightly higher ratings.
+- Games and Entertainment categories are the most saturated.
+- Larger app size does not always correlate with better ratings.
+- There are notable differences in the pricing and review patterns between App Store and Google Play apps.
 
-This project is licensed under the MIT License.
+---
+
+## Full file
+👉 [Click here to view the project](https://https://minhha-online.github.io/Profitable-App-Profiles/appstore_googleplay_analysis.html)
+
+---
+
+## Files in this Repository
+- `appstore_googleplay_analysis.ipynb` – Source Jupyter Notebook
+- `appstore_googleplay_analysis.html` – HTML export for GitHub Pages
+- `AppleStore.csv` – App Store dataset
+- `googleplaystore.csv` – Google Play Store dataset
+- `README.md` – Project description
+
+---
+
+## 📌 Business Value
+The insights from this project can guide:
+- App developers: to choose categories with less competition
+- Marketers: to understand pricing strategies
+- Investors: to spot potential opportunities in growing categories
+
+---
