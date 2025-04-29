@@ -15,8 +15,8 @@ This analysis can help developers, marketers, and investors understand key trend
 ---
 
 ## Dataset Information
-- **Apple App Store Data:** `AppleStore.csv`
-- **Google Play Store Data:** `googleplaystore.csv`
+- **Apple App Store Data:** *AppleStore.csv*
+- **Google Play Store Data:** *googleplaystore.csv*
   
 Both datasets contain information on app category, ratings, size, number of installs, price, and more.
 
@@ -45,11 +45,11 @@ Both datasets contain information on app category, ratings, size, number of inst
 ---
 
 ## Files in this Repository
-- `appstore_googleplay_analysis.ipynb` – Source Jupyter Notebook
-- `appstore_googleplay_analysis.html` – HTML export for GitHub Pages
-- `AppleStore.csv` – App Store dataset
-- `googleplaystore.csv` – Google Play Store dataset
-- `README.md` – Project description
+- *appstore_googleplay_analysis.ipynb* – Source Jupyter Notebook
+- *appstore_googleplay_analysis.html* – HTML export for GitHub Pages
+- *AppleStore.csv* – App Store dataset
+- *googleplaystore.csv* – Google Play Store dataset
+- *README.md* – Project description
 
 ---
 
