@@ -1,5 +1,11 @@
 # Mobile App Market Analysis: App Store vs Google Play
 
+## Full file
+
+[Click here to view the project](https://minhha-online.github.io/Profitable-App-Profiles/appstore_googleplay_analysis.html)
+
+---
+
 ## Project Summary
 In this project, I analyzed app data from both the Apple App Store and Google Play Store to uncover insights about the mobile app marketplace. The objective was to identify factors influencing app success, compare characteristics across platforms, and provide recommendations for app development strategies.
 
@@ -35,12 +41,6 @@ Both datasets contain information on app category, ratings, size, number of inst
 - Games and Entertainment categories are the most saturated.
 - Larger app size does not always correlate with better ratings.
 - There are notable differences in the pricing and review patterns between App Store and Google Play apps.
-
----
-
-## Full file
-
-[Click here to view the project](https://minhha-online.github.io/Profitable-App-Profiles/appstore_googleplay_analysis.html)
 
 ---
 
